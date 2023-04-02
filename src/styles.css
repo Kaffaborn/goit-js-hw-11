@@ -40,7 +40,7 @@ input:focus {
 
 .load-more {
 display: block;
-padding: 5 10;
+padding: 7 12;
 
 margin: 15 auto;
 
@@ -50,4 +50,8 @@ border: none;
 
 color: white;
 font-weight: 800;
+}
+
+.load-more:hover, .load-more:focus{
+    background-color: cadetblue;
 }
