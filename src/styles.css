@@ -9,9 +9,6 @@ body {
     margin: 0;
 }
 
-.is-hidden {
-    display: none;
-}
 
 .search-form {
     display: flex;
@@ -104,4 +101,8 @@ font-weight: 800;
     border-top: solid 1px;
     border-color: lightseagreen ;
     padding: 10px;
+}
+
+.is-hidden {
+    display: none;
 }
